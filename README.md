@@ -1,2 +1,3 @@
 # hello-world
-freshman
+
+System.out.println("hello,world");
